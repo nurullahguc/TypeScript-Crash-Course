@@ -1,0 +1,1 @@
+type script carsh course
